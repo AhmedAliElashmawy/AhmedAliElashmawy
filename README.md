@@ -48,7 +48,11 @@
 ![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-626EF7?style=for-the-badge&logo=graphql&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="40%" height="135" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedAliElashmawy&label=Profile%20views&color=626EF7&style=flat" alt="AhmedAliElashmawy" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="50%" />
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="40%" />
 
 </p>
