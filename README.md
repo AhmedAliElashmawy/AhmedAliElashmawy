@@ -53,7 +53,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="45%" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&include_all_commits=true&count_private=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="45%" height="180em" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="40%" height="180em" />
