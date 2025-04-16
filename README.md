@@ -13,7 +13,7 @@
 
 ---
 
-<h3 style="color:#626EF7;">👋 About Me</h3>
+![About Me](https://img.shields.io/badge/About%20Me-626EF7?style=for-the-badge)
 
 - 💻 Passionate about software development, systems design, and AI.
 - 🌱 Currently exploring **Backend Development**, **Machine Learning**, and **Low-Level Programming**.
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 style="color:#626EF7;">🛠️ Languages & Tools</h3>
+![Languages & Tools](https://img.shields.io/badge/Languages%20%26%20Tools-626EF7?style=for-the-badge&logo=codefactor&logoColor=white)
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 style="color:#626EF7;">📫 Let's Connect</h3>
+![Let's Connect](https://img.shields.io/badge/Let's%20Connect-626EF7?style=for-the-badge&logo=Handshake&logoColor=white)
 
 <p>
   <a href="mailto:ali2005hassan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -45,9 +45,10 @@
 
 ---
 
-<h3 style="color:#626EF7;">📊 GitHub Stats</h3>
+![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-626EF7?style=for-the-badge&logo=graphql&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117"" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=AhmedAliElashmawy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=626EF7&fire=626EF7&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" width="100%" />
 </p>
