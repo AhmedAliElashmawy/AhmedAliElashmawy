@@ -52,7 +52,12 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="50%" />
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="40%" />
-
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAliElashmawy&show_icons=true&title_color=626EF7&icon_color=626EF7&text_color=ffffff&bg_color=0d1117" width="33%" height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAliElashmawy&layout=compact&title_color=626EF7&text_color=ffffff&bg_color=0d1117" width="28%" height="180" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=AhmedAliElashmawy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=626EF7&fire=626EF7&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" width="34%" height="180" />
 </p>
